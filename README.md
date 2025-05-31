@@ -25,17 +25,13 @@ This project demonstrates a low-cost approach for rapid prototyping of antennas 
     ```
 
 ## 🚀 Usage
-- Run measurement scripts:
-    ```bash
-    python acquire_measurements.py
-    ```
 - Process S-parameter data:
     ```bash
-    python process_sparams.py
+    python S Parameters .py
     ```
 - Generate polar plots:
     ```bash
-    python plot_polar.py
+    python Antenna Radiation Plot.py
     ```
 - Access example data files and documentation in the `/data` and `/docs` directories.
 
