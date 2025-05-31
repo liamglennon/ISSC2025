@@ -48,7 +48,7 @@ For more details, see the full paper in the `/docs` directory.
 
 ## 📬 Contact
 For questions or contributions, please contact:  
-📧 LiamJGlennon"gmail.com
+📧 LiamJGlennon@gmail.com
 
 ---
 
